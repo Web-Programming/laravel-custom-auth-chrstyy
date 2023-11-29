@@ -16,8 +16,8 @@
             <table class="table table-striped table-hover">
                 <thead>
                     <tr>
-                        <td>Nama</td>
-                        <th>Aksi</th>
+                        <td>Foto</td>
+                        <th>Nama Prodi</th>
                     </tr>
                 </thead>
                 <tbody>
